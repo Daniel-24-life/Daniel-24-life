@@ -3,57 +3,60 @@
   <img src="assets/cover-light.svg" alt="Daniel · AI Product and Agent Engineering" width="1280" />
 </picture>
 
-# Daniel · AI Product and Agent Engineering
+# I turn business problems into runnable, inspectable AI workflows
 
-[中文](README.md) · [Portfolio](https://github.com/Daniel-24-life/AIfile)
+[中文](README.md) · [Full portfolio](https://github.com/Daniel-24-life/AIfile) · [Runnable code](https://github.com/Daniel-24-life/AIfile/tree/main/shelves/code)
 
-I turn business questions into inspectable AI product workflows: model objects
-and states, bound tools and permissions, preserve evidence, then verify results.
+I'm Daniel, focused on AI products and agent engineering. My work starts with
+problem models, then moves through tool and permission boundaries, evidence
+records, human review, and a runnable product experience.
 
-The work below covers logistics, buyer research, research governance and an
-agent-platform retrospective. Each project explains its behavior and limits,
-with routes from product experience to architecture, source and verification.
+The four projects below follow the same path: experience → architecture → source
+→ verification. Each one states what is implemented and where its limits are.
+
+**Choose a path:** [Product workbench](https://github.com/Daniel-24-life/logistics-workbench) · [Research agent](https://github.com/Daniel-24-life/buyer-research-agent) · [Governance design](https://github.com/Daniel-24-life/btc-agent-governance) · [Engineering retrospective](https://github.com/Daniel-24-life/agentplatform-case-study)
 
 <!-- portfolio:start -->
 
 ## Selected work
 
-<table>
-<tbody>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Daniel-24-life/logistics-workbench">Hangxu Logistics Workbench</a></h3>
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2e71763d288fe5484b21c8932e7e5950fe64854a/assets/previews/logistics.png" width="420" alt="Hangxu Logistics Workbench" /></a>
-<p>A synthetic exception-to-task workflow with role views.</p>
-<p><strong>Offline product demo</strong></p>
-<p><a href="https://github.com/Daniel-24-life/logistics-workbench">Run / overview</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/tree/main/dist">Source</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/docs/VERIFICATION.md">Verification</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Daniel-24-life/buyer-research-agent">Buyer Research Agent</a></h3>
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2e71763d288fe5484b21c8932e7e5950fe64854a/assets/previews/buyer.png" width="420" alt="Buyer Research Agent" /></a>
-<p>Demand evidence, unknowns and a durable local queue.</p>
-<p><strong>Offline reference</strong></p>
-<p><a href="https://github.com/Daniel-24-life/buyer-research-agent">Run / overview</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/core.py">Source</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/docs/VERIFICATION.md">Verification</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Daniel-24-life/btc-agent-governance">BTC Agent Governance</a></h3>
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2e71763d288fe5484b21c8932e7e5950fe64854a/assets/previews/btc.svg" width="420" alt="BTC Agent Governance" /></a>
-<p>Four synthetic scenarios with bounded evidence and no trading authority.</p>
-<p><strong>Research governance skeleton</strong></p>
-<p><a href="https://github.com/Daniel-24-life/btc-agent-governance">Run / overview</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/public_demo.py">Source</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/VERIFICATION.md">Verification</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Daniel-24-life/agentplatform-case-study">AgentPlatform Case Study</a></h3>
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2e71763d288fe5484b21c8932e7e5950fe64854a/assets/previews/agentplatform.png" width="420" alt="AgentPlatform Case Study" /></a>
-<p>Trusted single-task execution and an unfulfilled product experience.</p>
-<p><strong>Discontinued</strong></p>
-<p><a href="https://github.com/Daniel-24-life/agentplatform-case-study">Run / overview</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/ARCHIVE_ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/SOURCE_READING_GUIDE.md">Source</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/VERIFICATION_RECORD.md">Verification</a></p>
-</td>
-</tr>
-</tbody>
-</table>
+### [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench)
+
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/386d06e67a502d8f33a0e83df89bb17a9410c964/assets/previews/logistics.png" width="860" alt="Hangxu Logistics Workbench" /></a>
+
+A synthetic exception-to-task workflow with role views.
+
+**Offline product demo** · <a href="https://github.com/Daniel-24-life/logistics-workbench">Run / overview</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/tree/main/dist">Source</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/docs/VERIFICATION.md">Verification</a>
+
+---
+
+### [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent)
+
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/386d06e67a502d8f33a0e83df89bb17a9410c964/assets/previews/buyer.png" width="860" alt="Buyer Research Agent" /></a>
+
+Demand evidence, unknowns and a durable local queue.
+
+**Offline reference** · <a href="https://github.com/Daniel-24-life/buyer-research-agent">Run / overview</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/core.py">Source</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/docs/VERIFICATION.md">Verification</a>
+
+---
+
+### [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance)
+
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/386d06e67a502d8f33a0e83df89bb17a9410c964/assets/previews/btc.svg" width="860" alt="BTC Agent Governance" /></a>
+
+Four synthetic scenarios with bounded evidence and no trading authority.
+
+**Research governance skeleton** · <a href="https://github.com/Daniel-24-life/btc-agent-governance">Run / overview</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/public_demo.py">Source</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/VERIFICATION.md">Verification</a>
+
+---
+
+### [AgentPlatform Case Study](https://github.com/Daniel-24-life/agentplatform-case-study)
+
+<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/386d06e67a502d8f33a0e83df89bb17a9410c964/assets/previews/agentplatform.png" width="860" alt="AgentPlatform Case Study" /></a>
+
+Trusted single-task execution and an unfulfilled product experience.
+
+**Discontinued** · <a href="https://github.com/Daniel-24-life/agentplatform-case-study">Run / overview</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/ARCHIVE_ARCHITECTURE.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/SOURCE_READING_GUIDE.md">Source</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/VERIFICATION_RECORD.md">Verification</a>
 
 ## Read deeper
 
@@ -73,6 +76,5 @@ with routes from product experience to architecture, source and verification.
 
 ---
 
-Public demos use synthetic material. Real records and production execution
-chains remain private. Discuss published code and design through each project's
-Issues. This profile does not publish private contact information.
+Public demos use synthetic material; real records and production execution
+chains remain private. Discuss technical questions through each project's Issues.
