@@ -11,18 +11,28 @@ I'm Daniel, focused on AI products and agent engineering. My work starts with
 problem models, then moves through tool and permission boundaries, evidence
 records, human review, and a runnable product experience.
 
-The four projects below follow the same path: experience → architecture → source
+The selected projects below follow the same path: experience → architecture → source
 → verification. Each one states what is implemented and where its limits are.
 
-**Choose a path:** [Product workbench](https://github.com/Daniel-24-life/logistics-workbench) · [Research agent](https://github.com/Daniel-24-life/buyer-research-agent) · [Governance design](https://github.com/Daniel-24-life/btc-agent-governance) · [Engineering retrospective](https://github.com/Daniel-24-life/agentplatform-case-study)
+**Choose a path:** [AI Coding and consumer service](https://github.com/Daniel-24-life/cosmopilot-v4) · [Product workbench](https://github.com/Daniel-24-life/logistics-workbench) · [Research agent](https://github.com/Daniel-24-life/buyer-research-agent) · [Governance design](https://github.com/Daniel-24-life/btc-agent-governance) · [Engineering retrospective](https://github.com/Daniel-24-life/agentplatform-case-study)
 
 <!-- portfolio:start -->
 
 ## Selected work
 
+### [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
+
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/cosmopilot.png" width="860" alt="CosmoPilot V4.0" /></a>
+
+Consumer-service evidence, protected drafts and local feedback in one workspace.
+
+**Offline public reference of V4.0 mechanisms** · <a href="https://github.com/Daniel-24-life/cosmopilot-v4">Run / overview</a> · <a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/docs/architecture.md">Architecture</a> · <a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/docs/source-reading.md">Source</a> · <a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/docs/VERIFICATION.md">Verification</a>
+
+---
+
 ### [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2c713f23390f47d563df05941148af0ed233e2ff/assets/previews/logistics.png" width="860" alt="Hangxu Logistics Workbench" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/logistics.png" width="860" alt="Hangxu Logistics Workbench" /></a>
 
 A synthetic exception-to-task workflow with role views.
 
@@ -32,7 +42,7 @@ A synthetic exception-to-task workflow with role views.
 
 ### [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2c713f23390f47d563df05941148af0ed233e2ff/assets/previews/buyer.png" width="860" alt="Buyer Research Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/buyer.png" width="860" alt="Buyer Research Agent" /></a>
 
 Demand evidence, unknowns and a durable local queue.
 
@@ -42,7 +52,7 @@ Demand evidence, unknowns and a durable local queue.
 
 ### [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2c713f23390f47d563df05941148af0ed233e2ff/assets/previews/btc.png" width="860" alt="BTC Agent Governance" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/btc.png" width="860" alt="BTC Agent Governance" /></a>
 
 Four synthetic scenarios with bounded evidence and no trading authority.
 
@@ -52,7 +62,7 @@ Four synthetic scenarios with bounded evidence and no trading authority.
 
 ### [AgentPlatform Case Study](https://github.com/Daniel-24-life/agentplatform-case-study)
 
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/2c713f23390f47d563df05941148af0ed233e2ff/assets/previews/agentplatform.png" width="860" alt="AgentPlatform Case Study" /></a>
+<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/agentplatform.png" width="860" alt="AgentPlatform Case Study" /></a>
 
 Trusted single-task execution and an unfulfilled product experience.
 
@@ -64,9 +74,9 @@ Trusted single-task execution and an unfulfilled product experience.
 
 ## Recent releases
 
+- 2026-10-25 · [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4) · V4.0 公开参考版 — Consumer-service workspace, AI Coding notes and synthetic reference demo.
 - 2026-10-15 · [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench) · v1.1 — Queue-first review workbench redesign.
 - 2026-10-15 · [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent) · v1.1 — Evidence-first workspace and explicit connection states.
-- 2026-10-15 · [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance) · v1.1 — Local viewer for four recorded governance scenarios.
 
 ## Add the next project
 
