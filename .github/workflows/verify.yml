@@ -22,3 +22,4 @@ jobs:
           ref: ${{ steps.pin.outputs.sha }}
           path: portfolio-source
       - run: python portfolio-source/scripts/render_portfolio.py --check --profile-dir .
+      - run: python portfolio-source/scripts/render_english_assets.py --check --profile-dir .

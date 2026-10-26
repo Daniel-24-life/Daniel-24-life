@@ -1,3 +1,5 @@
+<p align="right"><strong>语言 / Language：</strong> <strong>中文</strong> · <a href="https://github.com/Daniel-24-life/Daniel-24-life/blob/main/README.en.md">English →</a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg" />
   <img src="assets/cover-light.svg" alt="Daniel · AI 产品与 Agent 工程" width="1280" />
@@ -20,7 +22,7 @@
 
 ### [知微 CosmoPilot · V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
 
 把消费者进线、时点证据、人工草稿复核和本地反馈放进同一工作台。
 
@@ -30,7 +32,7 @@
 
 ### [航序 · 物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
 
 把物流异常、人工审核、角色动作和调度任务组织成可体验的闭环。
 
@@ -40,7 +42,7 @@
 
 ### [外贸买家研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
 
 用需求原文、日期和核验缺口区分明确需求、采购机会与待核验线索。
 
@@ -50,7 +52,7 @@
 
 ### [BTC Agent 治理](https://github.com/Daniel-24-life/btc-agent-governance)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
 
 分开判断任务路由、证据声明与状态晋级，四种合成场景始终没有执行权限。
 
@@ -60,7 +62,7 @@
 
 ### [AgentPlatform · 工程与产品复盘](https://github.com/Daniel-24-life/agentplatform-case-study)
 
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/1498f02d4cc4ef9fb9f9ff218d4f9f9ce383e0d6/assets/previews/agentplatform.png" width="860" alt="AgentPlatform · 工程与产品复盘" /></a>
+<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/agentplatform.png" width="860" alt="AgentPlatform · 工程与产品复盘" /></a>
 
 受控单 Task 执行有指定验证记录；产品目标到交付的核心体验没有实现。
 
