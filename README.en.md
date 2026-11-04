@@ -26,7 +26,7 @@ Explore each project through its product, architecture, code and verification.
 
 ### [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
 
 Consumer-service evidence, protected drafts and local feedback in one workspace.
 
@@ -36,7 +36,7 @@ Consumer-service evidence, protected drafts and local feedback in one workspace.
 
 ### [Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/trade-desk-copilot.svg" width="860" alt="Trade Desk Copilot" /></a>
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/trade-desk-copilot.svg" width="860" alt="Trade Desk Copilot" /></a>
 
 Edge-docked HUD workbench: session isolation, interactive DST slot tracking, RAG catalog grounding, and 1080x1080 quotation cards.
 
@@ -46,7 +46,7 @@ Edge-docked HUD workbench: session isolation, interactive DST slot tracking, RAG
 
 ### [Localization Integrity Lab](https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/localization-integrity-lab.svg" width="860" alt="Localization Integrity Lab" /></a>
+<a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/localization-integrity-lab.svg" width="860" alt="Localization Integrity Lab" /></a>
 
 Kinematic ODEs, Gramian observability, absorbing boundary PDEs, and colored-noise filtering.
 
@@ -56,7 +56,7 @@ Kinematic ODEs, Gramian observability, absorbing boundary PDEs, and colored-nois
 
 ### [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
 
 A synthetic exception-to-task workflow with role views.
 
@@ -66,7 +66,7 @@ A synthetic exception-to-task workflow with role views.
 
 ### [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
 
 Demand evidence, unknowns and a durable local queue.
 
@@ -76,7 +76,7 @@ Demand evidence, unknowns and a durable local queue.
 
 ### [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
 
 Four synthetic scenarios with bounded evidence and no trading authority.
 

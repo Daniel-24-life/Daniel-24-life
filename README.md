@@ -26,7 +26,7 @@
 
 ### [知微 CosmoPilot · V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
 
 把消费者进线、时点证据、人工草稿复核和本地反馈放进同一工作台。
 
@@ -36,7 +36,7 @@
 
 ### [外贸桌面协作助手](https://github.com/Daniel-24-life/trade-desk-copilot)
 
-<a href="https://github.com/Daniel-24-life/trade-desk-copilot"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/trade-desk-copilot.png" width="860" alt="外贸桌面协作助手" /></a>
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/trade-desk-copilot.png" width="860" alt="外贸桌面协作助手" /></a>
 
 常驻桌面的 HUD 协作工作台：多买家会话隔离、交互式 DST 槽位追踪、RAG 商品目录与 1080 报价卡生成。
 
@@ -46,7 +46,7 @@
 
 ### [移动机器人定位完整性研究](https://github.com/Daniel-24-life/localization-integrity-lab)
 
-<a href="https://github.com/Daniel-24-life/localization-integrity-lab"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/localization-integrity-lab.png" width="860" alt="移动机器人定位完整性研究" /></a>
+<a href="https://github.com/Daniel-24-life/localization-integrity-lab"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/localization-integrity-lab.png" width="860" alt="移动机器人定位完整性研究" /></a>
 
 动力学 ODE、误差可观测性 Gramian、吸收边界 PDE 越界概率与有色噪声滤波基准。
 
@@ -56,7 +56,7 @@
 
 ### [航序 · 物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
 
 把物流异常、人工审核、角色动作和调度任务组织成可体验的闭环。
 
@@ -66,7 +66,7 @@
 
 ### [外贸买家研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
 
 用需求原文、日期和核验缺口区分明确需求、采购机会与待核验线索。
 
@@ -76,7 +76,7 @@
 
 ### [BTC Agent 治理](https://github.com/Daniel-24-life/btc-agent-governance)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/db852336e76a9463f25d511cd8754c425bee5f26/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
 
 分开判断任务路由、证据声明与状态晋级，四种合成场景始终没有执行权限。
 
