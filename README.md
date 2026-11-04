@@ -22,7 +22,7 @@
 
 ### [知微 CosmoPilot · V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
 
 把消费者进线、时点证据、人工草稿复核和本地反馈放进同一工作台。
 
@@ -32,7 +32,7 @@
 
 ### [航序 · 物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
 
 把物流异常、人工审核、角色动作和调度任务组织成可体验的闭环。
 
@@ -42,7 +42,7 @@
 
 ### [外贸买家研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
 
 用需求原文、日期和核验缺口区分明确需求、采购机会与待核验线索。
 
@@ -52,7 +52,7 @@
 
 ### [BTC Agent 治理](https://github.com/Daniel-24-life/btc-agent-governance)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
 
 分开判断任务路由、证据声明与状态晋级，四种合成场景始终没有执行权限。
 
@@ -62,7 +62,7 @@
 
 ### [AgentPlatform · 工程与产品复盘](https://github.com/Daniel-24-life/agentplatform-case-study)
 
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/agentplatform.png" width="860" alt="AgentPlatform · 工程与产品复盘" /></a>
+<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/agentplatform.png" width="860" alt="AgentPlatform · 工程与产品复盘" /></a>
 
 受控单 Task 执行有指定验证记录；产品目标到交付的核心体验没有实现。
 
@@ -75,8 +75,8 @@
 ## 近期更新
 
 - 2026-11-04 · [外贸桌面协作助手](https://github.com/Daniel-24-life/trade-desk-copilot) · v1.0 — 全新开源发布：双模离线仿真、交互式 DST 状态机与宿主格式清洗。
+- 2026-11-04 · [移动机器人定位完整性研究](https://github.com/Daniel-24-life/localization-integrity-lab) · v1.0 — 独立科研开源：144 条件合成基准、吸收边界 PDE 求解器与 116 项物理单元测试。
 - 2026-10-25 · [知微 CosmoPilot · V4.0](https://github.com/Daniel-24-life/cosmopilot-v4) · V4.0 公开参考版 — 新增消费者服务工作台、AI Coding 说明与合成参考演示。
-- 2026-10-15 · [航序 · 物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench) · v1.1 — 异常队列与审核工作台重设计。
 
 ## 添加下一项作品
 
