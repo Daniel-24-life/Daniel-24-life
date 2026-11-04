@@ -12,9 +12,13 @@
 我是 Daniel，专注 AI 产品与 Agent 工程。我的工作从问题建模开始，经过工具与权限边界、
 证据记录和人工复核，最后落到可运行的产品体验。
 
+**🔥 近期主线工作：**
+- **[外贸桌面协作助手 (Trade Desk Copilot)](https://github.com/Daniel-24-life/trade-desk-copilot)**：贴边轻量悬浮 HUD、多会话隔离、剪贴板清洗、混合检索知识库与 1080×1080 离线报价卡生成，打造外贸业务人员开箱即用的桌面副驾驶。
+- **[移动机器人定位完整性研究 (Localization Integrity Lab)](https://github.com/Daniel-24-life/localization-integrity-lab)**：基于运动学 ODE、误差可观测性 Gramian、吸收边界 PDE 越界概率量化及有色噪声滤波，构建严谨、全闭环的可复现科研基准。
+
 下面的精选作品按“体验 → 架构 → 源码 → 验证”组织，并明确说明实现范围与限制。
 
-**快速选择：** [AI Coding 与消费者服务](https://github.com/Daniel-24-life/cosmopilot-v4) · [产品工作台](https://github.com/Daniel-24-life/logistics-workbench) · [研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent) · [治理设计](https://github.com/Daniel-24-life/btc-agent-governance) · [工程复盘](https://github.com/Daniel-24-life/agentplatform-case-study)
+**快速选择：** [外贸桌面助手](https://github.com/Daniel-24-life/trade-desk-copilot) · [定位完整性研究](https://github.com/Daniel-24-life/localization-integrity-lab) · [AI 消费者服务](https://github.com/Daniel-24-life/cosmopilot-v4) · [物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench) · [买家研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent) · [治理骨架](https://github.com/Daniel-24-life/btc-agent-governance)
 
 <!-- portfolio:start -->
 
@@ -22,7 +26,7 @@
 
 ### [知微 CosmoPilot · V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/cosmopilot.png" width="860" alt="知微 CosmoPilot · V4.0" /></a>
 
 把消费者进线、时点证据、人工草稿复核和本地反馈放进同一工作台。
 
@@ -30,9 +34,29 @@
 
 ---
 
+### [外贸桌面协作助手](https://github.com/Daniel-24-life/trade-desk-copilot)
+
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/trade-desk-copilot.png" width="860" alt="外贸桌面协作助手" /></a>
+
+常驻桌面的 HUD 协作工作台：多买家会话隔离、交互式 DST 槽位追踪、RAG 商品目录与 1080 报价卡生成。
+
+**离线产品演示** · <a href="https://github.com/Daniel-24-life/trade-desk-copilot">体验与运行</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/assets/screenshots/architecture_overview.svg">架构</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/core/agent.py">源码</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.md">验证</a>
+
+---
+
+### [移动机器人定位完整性研究](https://github.com/Daniel-24-life/localization-integrity-lab)
+
+<a href="https://github.com/Daniel-24-life/localization-integrity-lab"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/localization-integrity-lab.png" width="860" alt="移动机器人定位完整性研究" /></a>
+
+动力学 ODE、误差可观测性 Gramian、吸收边界 PDE 越界概率与有色噪声滤波基准。
+
+**可复现科研基准** · <a href="https://github.com/Daniel-24-life/localization-integrity-lab">体验与运行</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/assets/screenshots/research_overview.svg">架构</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/scripts/run_synthetic_study.py">源码</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/docs/mathematical_formulation.md">验证</a>
+
+---
+
 ### [航序 · 物流协同工作台](https://github.com/Daniel-24-life/logistics-workbench)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/logistics.png" width="860" alt="航序 · 物流协同工作台" /></a>
 
 把物流异常、人工审核、角色动作和调度任务组织成可体验的闭环。
 
@@ -42,7 +66,7 @@
 
 ### [外贸买家研究 Agent](https://github.com/Daniel-24-life/buyer-research-agent)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/buyer.png" width="860" alt="外贸买家研究 Agent" /></a>
 
 用需求原文、日期和核验缺口区分明确需求、采购机会与待核验线索。
 
@@ -52,21 +76,11 @@
 
 ### [BTC Agent 治理](https://github.com/Daniel-24-life/btc-agent-governance)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/btc.png" width="860" alt="BTC Agent 治理" /></a>
 
 分开判断任务路由、证据声明与状态晋级，四种合成场景始终没有执行权限。
 
 **研究治理骨架** · <a href="https://github.com/Daniel-24-life/btc-agent-governance">体验与运行</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/architecture.md">架构</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/public_demo.py">源码</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/VERIFICATION.md">验证</a>
-
----
-
-### [AgentPlatform · 工程与产品复盘](https://github.com/Daniel-24-life/agentplatform-case-study)
-
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/agentplatform.png" width="860" alt="AgentPlatform · 工程与产品复盘" /></a>
-
-受控单 Task 执行有指定验证记录；产品目标到交付的核心体验没有实现。
-
-**已停止开发** · <a href="https://github.com/Daniel-24-life/agentplatform-case-study">体验与运行</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/ARCHIVE_ARCHITECTURE.md">架构</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/SOURCE_READING_GUIDE.md">源码</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/VERIFICATION_RECORD.md">验证</a>
 
 ## 深入阅读
 

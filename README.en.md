@@ -12,9 +12,13 @@
 I build AI product prototypes and agent workflows around business needs, with
 explicit tool boundaries, evidence records and human review.
 
+**🔥 Recent Focus:**
+- **[Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md)**: Edge-docked HUD desktop workbench featuring session isolation, host-aware clipboard cleaning, hybrid retrieval (BM25 + Semantic), and automated 1080x1080 quotation cards for global trade reps.
+- **[Localization Integrity Lab](https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md)**: A reproducible research benchmark spanning kinematic ODE dynamics, error Gramian observability, absorbing boundary PDE hazard probabilities, and colored-noise Kalman filtering.
+
 Explore each project through its product, architecture, code and verification.
 
-**Choose a path:** [AI Coding & consumer service](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md) · [Logistics workflow](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md) · [Buyer research](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md) · [Agent governance](https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md) · [Engineering case study](https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md)
+**Choose a path:** [Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md) · [Localization Integrity Lab](https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md) · [CosmoPilot V4](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md) · [Logistics Workflow](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md) · [Buyer Research](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md) · [Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md)
 
 <!-- portfolio:start -->
 
@@ -22,7 +26,7 @@ Explore each project through its product, architecture, code and verification.
 
 ### [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
 
 Consumer-service evidence, protected drafts and local feedback in one workspace.
 
@@ -30,9 +34,29 @@ Consumer-service evidence, protected drafts and local feedback in one workspace.
 
 ---
 
+### [Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md)
+
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/trade-desk-copilot.svg" width="860" alt="Trade Desk Copilot" /></a>
+
+Edge-docked HUD workbench: session isolation, interactive DST slot tracking, RAG catalog grounding, and 1080x1080 quotation cards.
+
+**Offline product demo** · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md">Run / overview</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/assets/screenshots/architecture_overview.svg">Architecture (Chinese)</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/core/agent.py">Source</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.md">Verification (Chinese)</a>
+
+---
+
+### [Localization Integrity Lab](https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md)
+
+<a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/localization-integrity-lab.svg" width="860" alt="Localization Integrity Lab" /></a>
+
+Kinematic ODEs, Gramian observability, absorbing boundary PDEs, and colored-noise filtering.
+
+**Reproducible research benchmark** · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/README.en.md">Run / overview</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/assets/screenshots/research_overview.svg">Architecture (Chinese)</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/scripts/run_synthetic_study.py">Source</a> · <a href="https://github.com/Daniel-24-life/localization-integrity-lab/blob/main/docs/mathematical_formulation.md">Verification (Chinese)</a>
+
+---
+
 ### [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
 
 A synthetic exception-to-task workflow with role views.
 
@@ -42,7 +66,7 @@ A synthetic exception-to-task workflow with role views.
 
 ### [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
 
 Demand evidence, unknowns and a durable local queue.
 
@@ -52,21 +76,11 @@ Demand evidence, unknowns and a durable local queue.
 
 ### [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/f650b1904e5f11ce166294297ca95a6bb8dcf0f0/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
 
 Four synthetic scenarios with bounded evidence and no trading authority.
 
 **Research governance skeleton** · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md">Run / overview</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/architecture.md">Architecture (Chinese)</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/public_demo.py">Source</a> · <a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/docs/VERIFICATION.md">Verification (Chinese)</a>
-
----
-
-### [AgentPlatform Case Study](https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md)
-
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/4aa4b3531b7ad43ef308a98348ca4b6b6e4e5ad0/assets/previews/en/agentplatform-case-study.svg" width="860" alt="AgentPlatform Case Study" /></a>
-
-Controlled single-task execution and lessons from a discontinued product.
-
-**Discontinued** · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md">Run / overview</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/ARCHIVE_ARCHITECTURE.md">Architecture (Chinese)</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/SOURCE_READING_GUIDE.md">Source guide (Chinese)</a> · <a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/docs/VERIFICATION_RECORD.md">Verification (Chinese)</a>
 
 ## Read deeper
 
