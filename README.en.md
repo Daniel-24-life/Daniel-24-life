@@ -22,7 +22,7 @@ Explore each project through its product, architecture, code and verification.
 
 ### [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/en/cosmopilot-v4.svg" width="860" alt="CosmoPilot V4.0" /></a>
 
 Consumer-service evidence, protected drafts and local feedback in one workspace.
 
@@ -32,7 +32,7 @@ Consumer-service evidence, protected drafts and local feedback in one workspace.
 
 ### [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
+<a href="https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/en/logistics-workbench.svg" width="860" alt="Hangxu Logistics Workbench" /></a>
 
 A synthetic exception-to-task workflow with role views.
 
@@ -42,7 +42,7 @@ A synthetic exception-to-task workflow with role views.
 
 ### [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
+<a href="https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/en/buyer-research-agent.svg" width="860" alt="Buyer Research Agent" /></a>
 
 Demand evidence, unknowns and a durable local queue.
 
@@ -52,7 +52,7 @@ Demand evidence, unknowns and a durable local queue.
 
 ### [BTC Agent Governance](https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
+<a href="https://github.com/Daniel-24-life/btc-agent-governance/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/en/btc-agent-governance.svg" width="860" alt="BTC Agent Governance" /></a>
 
 Four synthetic scenarios with bounded evidence and no trading authority.
 
@@ -62,7 +62,7 @@ Four synthetic scenarios with bounded evidence and no trading authority.
 
 ### [AgentPlatform Case Study](https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md)
 
-<a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/57b1a8eedc5dcd49d7bf33b696ebdf9a6958c3b3/assets/previews/en/agentplatform-case-study.svg" width="860" alt="AgentPlatform Case Study" /></a>
+<a href="https://github.com/Daniel-24-life/agentplatform-case-study/blob/main/README.en.md"><img src="https://raw.githubusercontent.com/Daniel-24-life/AIfile/3f77f8f411ba7153b6fa034e3262fca6eb5f98bf/assets/previews/en/agentplatform-case-study.svg" width="860" alt="AgentPlatform Case Study" /></a>
 
 Controlled single-task execution and lessons from a discontinued product.
 
@@ -74,9 +74,9 @@ Controlled single-task execution and lessons from a discontinued product.
 
 ## Recent releases
 
+- 2026-11-04 · [Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot/blob/main/README.en.md) · v1.0 — Initial open-source release: dual-mode offline simulation, interactive DST state machine, and host-aware formatting.
 - 2026-10-25 · [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4/blob/main/README.en.md) · V4.0 public reference — Consumer-service workspace, AI Coding notes and synthetic reference demo.
 - 2026-10-15 · [Hangxu Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench/blob/main/README.en.md) · v1.1 — Queue-first review workbench redesign.
-- 2026-10-15 · [Buyer Research Agent](https://github.com/Daniel-24-life/buyer-research-agent/blob/main/README.en.md) · v1.1 — Evidence-first workspace and explicit connection states.
 
 ## Add the next project
 
