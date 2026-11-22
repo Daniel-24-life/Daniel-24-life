@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 550" role="img" aria-labelledby="title description">
+<title id="title">Public work snapshot</title>
+<desc id="description">Project counts by focus area, selected public repository language bytes and recently updated projects.</desc>
+<rect width="760" height="550" fill="#151a19"/>
+<path d="M28 75H732M28 417H732" stroke="#344a43"/>
+<text x="30" y="52" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="34" font-weight="650">Public Work Snapshot</text>
+<text x="30" y="114" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="26" font-weight="650">Focus areas</text>
+<text x="30" y="151" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="23" font-weight="450">AI Workflow &amp; Agent Engineering</text>
+<text x="680" y="151" fill="#83c7b4" font-family="system-ui, sans-serif" font-size="23" font-weight="650">2</text>
+<text x="30" y="185" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="23" font-weight="450">Full-Stack / Web</text>
+<text x="680" y="185" fill="#83c7b4" font-family="system-ui, sans-serif" font-size="23" font-weight="650">2</text>
+<text x="30" y="219" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="23" font-weight="450">Math Modeling &amp; Algorithms</text>
+<text x="680" y="219" fill="#83c7b4" font-family="system-ui, sans-serif" font-size="23" font-weight="650">2</text>
+<text x="30" y="264" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="26" font-weight="650">Language share</text>
+<text x="30" y="299" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="21" font-weight="450">Python</text>
+<rect x="215" y="284" width="375" height="12" rx="3" fill="#344a43"/>
+<rect x="215" y="284" width="338.32" height="12" rx="3" fill="#83c7b4"/>
+<text x="650" y="299" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="21" font-weight="450">90%</text>
+<text x="30" y="329" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="21" font-weight="450">JavaScript</text>
+<rect x="215" y="314" width="375" height="12" rx="3" fill="#344a43"/>
+<rect x="215" y="314" width="19.19" height="12" rx="3" fill="#83c7b4"/>
+<text x="650" y="329" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="21" font-weight="450">5%</text>
+<text x="30" y="359" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="21" font-weight="450">CSS</text>
+<rect x="215" y="344" width="375" height="12" rx="3" fill="#344a43"/>
+<rect x="215" y="344" width="10.44" height="12" rx="3" fill="#83c7b4"/>
+<text x="650" y="359" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="21" font-weight="450">3%</text>
+<text x="30" y="389" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="21" font-weight="450">Other</text>
+<rect x="215" y="374" width="375" height="12" rx="3" fill="#344a43"/>
+<rect x="215" y="374" width="7.05" height="12" rx="3" fill="#83c7b4"/>
+<text x="650" y="389" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="21" font-weight="450">2%</text>
+<text x="30" y="455" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="26" font-weight="650">Recently updated</text>
+<text x="30" y="493" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="22" font-weight="450">Trade Desk Copilot</text>
+<text x="545" y="493" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="20" font-weight="450">2026-11-22</text>
+<text x="30" y="526" fill="#edf2e9" font-family="system-ui, sans-serif" font-size="22" font-weight="450">Sports Franchise Optimization</text>
+<text x="545" y="526" fill="#a0beb3" font-family="system-ui, sans-serif" font-size="20" font-weight="450">2026-11-22</text>
+</svg>

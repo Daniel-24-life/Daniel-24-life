@@ -1,10 +1,29 @@
-# 主页维护
+# Profile maintenance
 
-个人介绍和结尾是手写区。精选项目、阅读导航与近期发布由 AIfile 的
-catalog/projects.json 生成，只覆盖 portfolio 标记区。
+The gallery is curated in [README.md](README.md). Its six entries also appear in
+[featured.json](featured.json). Store desk-sized image files under
+`assets/work/`, with specific alt text and a link to the corresponding repository.
+The [Chinese navigation](README.zh.md) links to the same work. The full
+portfolio catalog is maintained in [AIfile](https://github.com/Daniel-24-life/AIfile).
 
-catalog-source.json 固定登记表来源提交。CI 获取这个提交并复核生成区，避免
-跟随远端 main 自动改变主页。需要更新时先完善、检查并发布 AIfile，再运行其
-render_portfolio.py 指定本仓库路径和新的完整来源 SHA。
+## Verify changes
 
-不使用统计卡、贡献动画或自动发布任务。头像、名称和用户名保持原样。
+```sh
+python scripts/update_metrics.py --check
+```
+
+The check validates gallery order, GitHub links, local image references and SVG syntax.
+It uses the committed snapshot and runs without network access.
+
+## Refresh the public snapshot
+
+The [scheduled workflow](.github/workflows/update-metrics.yml) runs weekly and
+supports a manual run. It reads repository metadata and language totals from the
+GitHub API and writes the light and dark SVG files. It only commits changes to
+those two files after validation. If fetching or rendering fails, the committed
+snapshot remains available.
+
+To refresh locally with an authenticated API environment, run
+`python scripts/update_metrics.py` and review the SVG diff. The command accepts
+an optional `GITHUB_TOKEN` from the environment. It requests only the public
+repositories listed in `featured.json`.

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 248" role="img" aria-labelledby="title">
+  <title id="title">Daniel · Selected engineering work</title>
+  <rect width="1280" height="248" fill="#f6f5ee"/>
+  <path d="M42 204H1238" fill="none" stroke="#bbccc0"/>
+  <g fill="none" stroke-width="2" stroke-linecap="round">
+    <path d="M818 91h84l31 34h82l43-51h119" stroke="#4c655c"/>
+    <path d="M818 125h362" stroke="#226b5b"/>
+    <path d="M818 159h84l31-34h82l43 51h119" stroke="#4c655c"/>
+  </g>
+  <circle cx="933" cy="125" r="5" fill="#226b5b"/>
+  <circle cx="1015" cy="125" r="5" fill="#226b5b"/>
+  <text x="64" y="137" fill="#1c2924" font-family="Georgia, serif" font-size="84" font-weight="500">Daniel</text>
+  <text x="70" y="174" fill="#4c655c" font-family="system-ui, sans-serif" font-size="19" letter-spacing="3">SELECTED ENGINEERING WORK</text>
+</svg>

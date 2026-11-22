@@ -1,4 +1,4 @@
-name: Pinned portfolio source
+name: Verify profile gallery
 on:
   push:
     branches: [main]
@@ -13,13 +13,4 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.11"
-      - name: Read source pin
-        id: pin
-        run: python -c "import json,os; p=json.load(open('catalog-source.json')); print('sha='+p['source_commit'], file=open(os.environ['GITHUB_OUTPUT'],'a'))"
-      - uses: actions/checkout@v6
-        with:
-          repository: Daniel-24-life/AIfile
-          ref: ${{ steps.pin.outputs.sha }}
-          path: portfolio-source
-      - run: python portfolio-source/scripts/render_portfolio.py --check --profile-dir .
-      - run: python portfolio-source/scripts/render_english_assets.py --check --profile-dir .
+      - run: python scripts/update_metrics.py --check

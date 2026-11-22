@@ -1,0 +1,32 @@
+[
+  {
+    "repo": "trade-desk-copilot",
+    "title": "Trade Desk Copilot",
+    "area": "AI Workflow & Agent Engineering"
+  },
+  {
+    "repo": "cosmopilot-v4",
+    "title": "CosmoPilot V4.0",
+    "area": "AI Workflow & Agent Engineering"
+  },
+  {
+    "repo": "logistics-workbench",
+    "title": "Logistics Workbench",
+    "area": "Full-Stack / Web"
+  },
+  {
+    "repo": "production-workflow-mindmap",
+    "title": "Production Workflow Mindmap",
+    "area": "Full-Stack / Web"
+  },
+  {
+    "repo": "localization-integrity-lab",
+    "title": "Localization Integrity Lab",
+    "area": "Math Modeling & Algorithms"
+  },
+  {
+    "repo": "sports-franchise-optimization",
+    "title": "Sports Franchise Optimization",
+    "area": "Math Modeling & Algorithms"
+  }
+]
