@@ -1,5 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
   <img src="assets/header-light.svg" alt="Daniel · Selected engineering work" width="1280">
 </picture>
 
@@ -70,6 +71,7 @@ A small, exact roster optimizer that makes budget, role, and risk constraints vi
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
   <img src="assets/metrics-light.svg" alt="Public work categories, code languages, and recent updates" width="1000">
 </picture>
 
