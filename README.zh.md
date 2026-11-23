@@ -8,7 +8,7 @@
 
 把证据检索、对话状态和人工复核放进桌面与 Web 工作台。
 
-12 个公开仓库 · 217 项自动化测试 · 4 个在线演示
+12 个公开仓库 · 225 项自动化测试 · 4 个在线演示
 
 ## 核心项目
 
@@ -18,7 +18,7 @@
 <td width="50%" valign="top">
 <a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo"><img src="assets/work/trade-desk-copilot.png" width="380" alt="外贸询盘工作台" /></a><br />
 <strong>外贸询盘工作台</strong><br />
-用商品目录核对买家需求，生成可复核的报价。<br />
+纠正询盘字段，复核与商品目录对应的报价。<br />
 <a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo">演示 GIF</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot">仓库</a>
 </td>
 <td width="50%" valign="top">

@@ -8,7 +8,7 @@
 
 Evidence retrieval, dialogue state, and review gates — shipped as desktop and web workbenches.
 
-12 public repositories · 217 automated tests · 4 live demos
+12 public repositories · 225 automated tests · 4 live demos
 
 ## Featured projects
 
@@ -18,7 +18,7 @@ Evidence retrieval, dialogue state, and review gates — shipped as desktop and 
 <td width="50%" valign="top">
 <a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo"><img src="assets/work/trade-desk-copilot.png" width="380" alt="Trade Desk Copilot" /></a><br />
 <strong>Trade Desk Copilot</strong><br />
-Match buyer requirements to catalog evidence and review the quotation.<br />
+Correct inquiry fields, then review the matching catalog quote.<br />
 <a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo">Demo GIF</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot">Repo</a>
 </td>
 <td width="50%" valign="top">
