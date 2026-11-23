@@ -43,6 +43,11 @@ for file in ("README.md","README.zh.md"):
     assert page.images == [("assets/header-light.svg","1200"),
                           *((f"assets/work/{s}.png","380") for s in FEATURED)], file
     assert "https://github.com/Daniel-24-life/portfolio" in text
+    language_path = "zh/" if file == "README.zh.md" else ""
+    gallery = f"https://daniel-24-life.github.io/portfolio/{language_path}"
+    gallery_position = text.index(gallery)
+    assert gallery_position < text.index("<table>"), file
+    assert not re.search(r"mailto:|\b[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}\b", text, re.I), file
     assert not re.search(r"/AIfile|Public Work Snapshot|## Focus|\[N\]|you@example\.com",text,re.I)
     for slug in FEATURED:
         assert f"https://github.com/Daniel-24-life/{slug}" in text
