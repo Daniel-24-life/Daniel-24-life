@@ -1,78 +1,54 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Daniel · Selected engineering work" width="1280">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+  <img src="assets/header-light.svg" alt="Daniel Deng · AI Workflow Engineer" width="1200" />
 </picture>
 
-I build AI workflows and web products with clear review steps.
-My modeling work makes assumptions and results reproducible.
+**I build AI agents that know when to stop and ask a human.**
 
-[Full portfolio](https://github.com/Daniel-24-life/AIfile) · [中文](README.zh.md)
+Evidence retrieval, dialogue state, and review gates — shipped as desktop and web workbenches.
 
-## Focus
+12 public repositories · 217 automated tests · 4 live demos
 
-| Area | What I work on |
-| --- | --- |
-| **AI Workflow & Agent Engineering** | Dialogue state, evidence retrieval, human review, and bounded automation. |
-| **Full-Stack / Web** | Browser workbenches, responsive interfaces, and product workflows. |
-| **Math Modeling & Algorithms** | Dynamical systems, integrity checks, and constrained optimization. |
+## Featured projects
 
-## Featured Work
+<table>
+<tbody>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo"><img src="assets/work/trade-desk-copilot.png" width="380" alt="Trade Desk Copilot" /></a><br />
+<strong>Trade Desk Copilot</strong><br />
+Match buyer requirements to catalog evidence and review the quotation.<br />
+<a href="https://github.com/Daniel-24-life/trade-desk-copilot#demo">Demo GIF</a> · <a href="https://github.com/Daniel-24-life/trade-desk-copilot">Repo</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4#demo"><img src="assets/work/cosmopilot-v4.png" width="380" alt="CosmoPilot V4.0" /></a><br />
+<strong>CosmoPilot V4.0</strong><br />
+Inspect evidence at a conversation cutoff and protect manual draft edits.<br />
+<a href="https://github.com/Daniel-24-life/cosmopilot-v4#demo">Demo GIF</a> · <a href="https://github.com/Daniel-24-life/cosmopilot-v4">Repo</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Daniel-24-life/buyer-research-agent#demo"><img src="assets/work/buyer-research-agent.png" width="380" alt="Buyer Research Agent" /></a><br />
+<strong>Buyer Research Agent</strong><br />
+Classify buyer demand and put evidence gaps into a review queue.<br />
+<a href="https://github.com/Daniel-24-life/buyer-research-agent#demo">Demo GIF</a> · <a href="https://github.com/Daniel-24-life/buyer-research-agent">Repo</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://daniel-24-life.github.io/logistics-workbench/"><img src="assets/work/logistics-workbench.png" width="380" alt="Logistics Workbench" /></a><br />
+<strong>Logistics Workbench</strong><br />
+Route a shipment exception into a task and follow its status.<br />
+<a href="https://daniel-24-life.github.io/logistics-workbench/">Live demo</a> · <a href="https://github.com/Daniel-24-life/logistics-workbench">Repo</a>
+</td>
+</tr>
+</tbody>
+</table>
 
-### [Trade Desk Copilot](https://github.com/Daniel-24-life/trade-desk-copilot)
+## How I build agents
 
-A desktop assistant for reviewing a fictional B2B inquiry, its supporting evidence, and a quote draft.
+- **Evidence before answers.** Show what the decision relies on and surface missing evidence.
+- **Bounded automation.** Route unclear or consequential cases to a human reviewer.
+- **Reproducible by default.** Publish fixtures, commands, and the scope of each check.
 
-**Stack** · Python · PyQt5 · Dialog state · Offline retrieval
-
-<p><a href="https://github.com/Daniel-24-life/trade-desk-copilot"><img src="assets/work/trade-desk-copilot.png" alt="Quotation card rendered from synthetic catalog data" width="680"></a></p>
-
-### [CosmoPilot V4.0](https://github.com/Daniel-24-life/cosmopilot-v4)
-
-A local consumer-service workbench that protects human draft edits and records review decisions.
-
-**Stack** · Python · SQLite · HTML/CSS/JavaScript
-
-<p><a href="https://github.com/Daniel-24-life/cosmopilot-v4"><img src="assets/work/cosmopilot-v4.svg" alt="English mechanism diagram of point-in-time evidence and human draft review" width="680"></a></p>
-
-### [Logistics Workbench](https://github.com/Daniel-24-life/logistics-workbench)
-
-A browser workbench for taking a synthetic logistics exception through review, dispatch, and closure.
-
-**Stack** · HTML/CSS · JavaScript · Node.js tests
-
-<p><a href="https://github.com/Daniel-24-life/logistics-workbench"><img src="assets/work/logistics-workbench.svg" alt="English mechanism diagram of exception review and dispatch handoffs" width="680"></a></p>
-
-### [Production Workflow Mindmap](https://github.com/Daniel-24-life/production-workflow-mindmap)
-
-A responsive, keyboard-operable map of production handoffs and review gates.
-
-**Stack** · Semantic HTML · CSS · Native disclosure
-
-<p><a href="https://github.com/Daniel-24-life/production-workflow-mindmap"><img src="assets/work/production-workflow-mindmap.png" alt="Local workflow map with the five production stages expanded" width="680"></a></p>
-
-### [Localization Integrity Lab](https://github.com/Daniel-24-life/localization-integrity-lab)
-
-A synthetic benchmark for positioning error, filter assumptions, and first exit under a specified stochastic model.
-
-**Stack** · Python · ODE · EKF · Absorbing-boundary PDE
-
-<p><a href="https://github.com/Daniel-24-life/localization-integrity-lab"><img src="assets/work/localization-integrity-lab.png" alt="Plots comparing synthetic localization runs" width="680"></a></p>
-
-### [Sports Franchise Optimization](https://github.com/Daniel-24-life/sports-franchise-optimization)
-
-A small, exact roster optimizer that makes budget, role, and risk constraints visible.
-
-**Stack** · Python · Constrained enumeration · Matplotlib
-
-<p><a href="https://github.com/Daniel-24-life/sports-franchise-optimization"><img src="assets/work/sports-franchise-optimization.png" alt="Generated budget and contribution trade-off chart for fictional players" width="680"></a></p>
-
-## Public Work Snapshot
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics-light.svg">
-  <img src="assets/metrics-light.svg" alt="Public work categories, code languages, and recent updates" width="1000">
-</picture>
-
-The snapshot covers the selected public repositories. Language totals use GitHub's reported file bytes. [How the snapshot is maintained](MAINTENANCE.md)
+[Full portfolio](https://github.com/Daniel-24-life/portfolio) · [中文](README.zh.md)

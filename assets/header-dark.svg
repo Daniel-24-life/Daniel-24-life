@@ -1,14 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 248" role="img" aria-labelledby="title">
-  <title id="title">Daniel · Selected engineering work</title>
-  <rect width="1280" height="248" fill="#151a19"/>
-  <path d="M42 204H1238" fill="none" stroke="#334843"/>
-  <g fill="none" stroke-width="2" stroke-linecap="round">
-    <path d="M818 91h84l31 34h82l43-51h119" stroke="#90b2a5"/>
-    <path d="M818 125h362" stroke="#83c7b4"/>
-    <path d="M818 159h84l31-34h82l43 51h119" stroke="#90b2a5"/>
-  </g>
-  <circle cx="933" cy="125" r="5" fill="#83c7b4"/>
-  <circle cx="1015" cy="125" r="5" fill="#83c7b4"/>
-  <text x="64" y="137" fill="#edf2e9" font-family="Georgia, serif" font-size="84" font-weight="500">Daniel</text>
-  <text x="70" y="174" fill="#90b2a5" font-family="system-ui, sans-serif" font-size="19" letter-spacing="3">SELECTED ENGINEERING WORK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img">
+<title>Daniel Deng · AI Workflow Engineer</title>
+<rect x="0" y="0" width="1200" height="240" fill="#141A16"/>
+<line x1="58" y1="197" x2="1144" y2="197" stroke="#2A332D"/>
+<text x="63" y="112" fill="#E8E6DF" font-size="58" font-family="Georgia, serif">Daniel Deng</text>
+<text x="66" y="151" fill="#9AA096" font-size="25" font-family="system-ui, sans-serif">AI Workflow Engineer</text>
+<polyline points="837,76 895,76 949,113 1015,113 1069,76 1147,76" fill="none" stroke="#9AA096" stroke-width="2"/>
+<polyline points="837,113 895,113 949,113 1015,113 1069,113 1147,113" fill="none" stroke="#7FB59A" stroke-width="2"/>
+<polyline points="837,150 895,150 949,113 1015,113 1069,150 1147,150" fill="none" stroke="#9AA096" stroke-width="2"/>
+<circle cx="949" cy="113" r="5" fill="#7FB59A"/>
+<circle cx="1015" cy="113" r="5" fill="#7FB59A"/>
 </svg>
